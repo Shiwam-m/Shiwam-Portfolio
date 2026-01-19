@@ -2,7 +2,7 @@
 
 A  portfolio showcasing expertise in AI engineering, focusing on the development of intelligent, scalable, and user-centric applications. This project bridges the gap between sophisticated Machine Learning models and modern, responsive web experiences
 
-## 🔗 **Live Portfolio: [shiwam-portfolio.onrender.com](https://shiwam-portfolio.onrender.com/)
+## 🔗 Live Portfolio: [shiwam-portfolio.onrender.com](https://shiwam-portfolio.onrender.com/)
 
 
 ---
